@@ -5,7 +5,7 @@ import Search from "./components/search/Search";
 import Home from "./components/Home";
 const router = createBrowserRouter([
   {
-    path: "",
+    path: "/youtube/",
     element: <RootLayout />,
     children: [
       { index: true, element: <Home /> },

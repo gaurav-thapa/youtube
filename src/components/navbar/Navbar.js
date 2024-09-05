@@ -9,7 +9,7 @@ const Navbar = () => {
       <ul className={"flex flex-col w-full sm:gap-1"}>
         <li className={menuItemClasses}>
           <i className="text-xl bi bi-house-door-fill"></i>
-          <Link to={"/"}>Home</Link>
+          <Link to={"/youtube/"}>Home</Link>
         </li>
         <li className={menuItemClasses}>
           <i className="text-xl bi bi-file-earmark-play"></i>Shorts

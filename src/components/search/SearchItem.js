@@ -13,7 +13,7 @@ const SearchItem = ({ vid }) => {
   );
 
   const onWatchHandler = () => {
-    navigate('/watch/'+id);
+    navigate('/youtube/watch/'+id);
   }
   return (
     <div onClick={onWatchHandler} className="hover:cursor-pointer flex flex-col md:flex-row gap-4">

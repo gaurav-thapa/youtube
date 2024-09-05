@@ -12,7 +12,7 @@ const Header = () => {
         <div className="ms-4 text-red-600">
           <i className="text-4xl bi bi-youtube"></i>
         </div>
-        <Link to={'/'} className="font-bold hidden md:block md:text-nowrap text-lg">Gaurav's YouTube</Link>
+        <Link to={'/youtube/'} className="font-bold hidden md:block md:text-nowrap text-lg">Gaurav's YouTube</Link>
       </div>
       <Searchbar />
       <div>
