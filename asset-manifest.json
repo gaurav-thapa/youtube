@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gaurav-thapa/youtube/static/css/main.fd3b7164.css",
-    "main.js": "/gaurav-thapa/youtube/static/js/main.9eaabf28.js",
+    "main.js": "/gaurav-thapa/youtube/static/js/main.bf08de51.js",
     "static/js/453.599326c8.chunk.js": "/gaurav-thapa/youtube/static/js/453.599326c8.chunk.js",
     "index.html": "/gaurav-thapa/youtube/index.html",
     "main.fd3b7164.css.map": "/gaurav-thapa/youtube/static/css/main.fd3b7164.css.map",
-    "main.9eaabf28.js.map": "/gaurav-thapa/youtube/static/js/main.9eaabf28.js.map",
+    "main.bf08de51.js.map": "/gaurav-thapa/youtube/static/js/main.bf08de51.js.map",
     "453.599326c8.chunk.js.map": "/gaurav-thapa/youtube/static/js/453.599326c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd3b7164.css",
-    "static/js/main.9eaabf28.js"
+    "static/js/main.bf08de51.js"
   ]
 }
