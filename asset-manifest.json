@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gaurav-thapa/youtube/static/css/main.fd3b7164.css",
-    "main.js": "/gaurav-thapa/youtube/static/js/main.bf08de51.js",
-    "static/js/453.599326c8.chunk.js": "/gaurav-thapa/youtube/static/js/453.599326c8.chunk.js",
-    "index.html": "/gaurav-thapa/youtube/index.html",
-    "main.fd3b7164.css.map": "/gaurav-thapa/youtube/static/css/main.fd3b7164.css.map",
-    "main.bf08de51.js.map": "/gaurav-thapa/youtube/static/js/main.bf08de51.js.map",
-    "453.599326c8.chunk.js.map": "/gaurav-thapa/youtube/static/js/453.599326c8.chunk.js.map"
+    "main.css": "/youtube/static/css/main.fd3b7164.css",
+    "main.js": "/youtube/static/js/main.6ce2c7b8.js",
+    "static/js/453.599326c8.chunk.js": "/youtube/static/js/453.599326c8.chunk.js",
+    "index.html": "/youtube/index.html",
+    "main.fd3b7164.css.map": "/youtube/static/css/main.fd3b7164.css.map",
+    "main.6ce2c7b8.js.map": "/youtube/static/js/main.6ce2c7b8.js.map",
+    "453.599326c8.chunk.js.map": "/youtube/static/js/453.599326c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd3b7164.css",
-    "static/js/main.bf08de51.js"
+    "static/js/main.6ce2c7b8.js"
   ]
 }
